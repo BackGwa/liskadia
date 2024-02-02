@@ -44,8 +44,9 @@
     "ended_games": "Gäitêsemüsis",
     "joined_games": "Modilêsemüsis",
     "title": {
-      "title": "J Liskadia",
-      "description": "Siulüsemüsie dé Zasoque"
+      "title": "J Liskadia (Unstable)",
+      "_description": "Siulüsemüsie dé Zasoque",
+      "description" : "You are currently playing Liskadia on the Canary server!<br>Be aware that there may be many bugs, so please keep that in mind!"
     }
   },
   "login": {

@@ -44,8 +44,9 @@
     "ended_games": "inrakoji gaimu in",
     "joined_games": "yialo nekiki gaimu in",
     "title": {
-      "title": "lasukadiko",
-      "description": "Jasukvo hugaini"
+      "title": "lasukadiko (Unstable)",
+      "_description": "Jasukvo hugaini",
+      "description" : "You are currently playing Liskadia on the Canary server!<br>Be aware that there may be many bugs, so please keep that in mind!"
     }
   },
   "login": {

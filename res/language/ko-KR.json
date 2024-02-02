@@ -44,8 +44,9 @@
     "ended_games": "종료된 게임 목록",
     "joined_games": "내가 참여한 게임 목록",
     "title": {
-      "title": "리스카디아",
-      "description": "자소크식 보드게임"
+      "title": "리스카디아 (불안정)",
+      "_description": "자소크식 보드게임",
+      "description" : "현재 당신은 Liskadia를 카나리아 서버에서 플레이하고 있습니다!<br>많은 버그가 발생할 수 있으니, 숙지하세요!"
     }
   },
   "login": {

@@ -44,8 +44,9 @@
     "ended_games": "Ended Games",
     "joined_games": "Joined Games",
     "title": {
-      "title": "Liskadia",
-      "description": "Zasokese boardgame"
+      "title": "Liskadia (Unstable)",
+      "_description": "Zasokese boardgame",
+      "description" : "You are currently playing Liskadia on the Canary server!<br>Be aware that there may be many bugs, so please keep that in mind!"
     }
   },
   "login": {

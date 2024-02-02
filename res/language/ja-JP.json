@@ -44,8 +44,9 @@
     "ended_games": "終了したゲーム",
     "joined_games": "参加したゲーム",
     "title": {
-      "title": "リスカディーア",
-      "description": "ザソク式ボードゲーム"
+      "title": "リスカディーア （不安定）",
+      "_description": "ザソク式ボードゲーム",
+      "description": "現在、あなたはLiskadiaをカナリアサーバーでプレイしています！<br>多くのバグが発生する可能性があるので、ご注意ください！"
     }
   },
   "login": {
