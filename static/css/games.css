@@ -1,7 +1,15 @@
 .content-title {
-    background-image: linear-gradient(to right, #19191eff, #19191e00), url('/static/image/liskadia_background.svg');
+    background-image: linear-gradient(to right, #19191eff, #1f1f2500), url('/static/image/liskadia_background.svg');
     background-position: center;
     color: #fff;
     margin: 0;
     padding: 100px 0;
+    border-radius: 0.9rem;
+    filter: drop-shadow(0px 0px 32px #0000003f);
+    -webkit-filter: drop-shadow(0px 0px 32px #0000003f);
+}
+
+.content-title h1,
+.content-title p {
+    margin-left: 4rem;
 }
